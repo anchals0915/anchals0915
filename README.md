@@ -6,14 +6,19 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Ecommerce Website**
+
 - 🌱 I’m currently learning **Spring Boot**
+
 - 💬 Ask me about **Java, Angular, SQL**
+
 - 📫 How to reach me **anchals0915@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anchalsingh1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchalsingh1509/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ansi_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ansi_15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anchals1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anchals1509" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ansi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ansi21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ansi21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansi21/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ansi1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ansi1509/" height="30" width="40" /></a>
 </p>
@@ -26,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anchals0915&show_icons=true&locale=en" alt="anchals0915" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anchals0915&" alt="anchals0915" /></p>
-
