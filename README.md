@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Ecommerce Website**
+- 🔭 I’m currently working on **QuckStay Project**
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Angular, SQL**
+- 💬 Ask me about **Java, Spring Boot, SQL**
 
 - 📫 How to reach me **anchals0915@gmail.com**
 
