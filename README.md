@@ -1,31 +1,88 @@
-<h1 align="center">Hi 👋, I'm Anchal Singh</h1>
-<h3 align="center">A Full Stack Java developer from India</h3>
+# Hi, I'm Anchal Singh 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchals0915&label=Profile%20views&color=0e75b6&style=flat" alt="anchals0915" /> </p>
+**Backend Engineer · Java · Spring Boot · FastAPI · Kafka · OCI**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I build production-grade backend systems, event-driven pipelines, and AI-powered developer tooling at Oracle Consulting. I care about systems that are observable, testable, and designed to be extended — not just delivered.
 
-- 🔭 I’m currently working on **QuckStay Project**
+---
 
-- 🌱 I’m currently learning **Spring Boot**
+## 🔧 What I work with
 
-- 💬 Ask me about **Java, Spring Boot, SQL**
+| Layer | Technologies |
+|---|---|
+| **Backend** | Java 21 · Spring Boot 3 · FastAPI · Python · REST · SOAP |
+| **Data** | PostgreSQL · Oracle ATP · Oracle DB · SQL stored procedures · SQLAlchemy |
+| **Streaming** | Apache Kafka · Kafka Connect · Kafka Streams · EMF streams |
+| **Cloud** | Oracle Cloud Infrastructure (OCI) · Serverless Functions · Object Storage · OCI Scheduler |
+| **Frontend** | React · Angular 17/18 · TypeScript · Tailwind CSS |
+| **AI / Agents** | OCI AI Agent Studio · RAG with knowledge base guardrails · Oracle Code Assist |
+| **Testing** | Postman · SOAP UI · JUnit · integration testing |
+| **Practices** | SOLID · DDD · versioned REST APIs · CI/CD · logging & observability |
 
-- 📫 How to reach me **anchals0915@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anchalsingh1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchalsingh1509/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anchals1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anchals1509" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ansi21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansi21/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ansi1509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ansi1509/" height="30" width="40" /></a>
-</p>
+## 🚀 Things I've shipped
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Integration Testing Platform** — React + FastAPI + Oracle DB  
+Production-grade tool for OIC integration testing across environments. Versioned REST APIs, SOLID architecture, AI-driven test generation, CSV report export. Rebuilt from scratch from a Streamlit prototype.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchals0915&show_icons=true&locale=en&layout=compact" alt="anchals0915" /></p>
+**OCI Serverless CPQ Sync Pipeline** — Python · OCI Functions · Oracle ATP  
+Scheduled serverless function that fetches CPQ Job/BOM sync data, stores raw payloads in OCI Object Storage for audit and replay, and drives Oracle ATP stored procedures via conditional pipeline logic.  
+→ Filed as **Oracle IP Asset #19032** (CPQ Job Status ATP Sync and Real-Time Monitoring)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anchals0915&show_icons=true&locale=en" alt="anchals0915" /></p>
+**AI TDD Generator** — OIC · Knowledge Base · Arch-AI-Tech  
+AI-powered documentation accelerator that auto-generates Technical Design Documents for OIC integrations. Uses a knowledge base as a hallucination guardrail injected at three stages: pattern analysis → prompt enrichment → TDD generation.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anchals0915&" alt="anchals0915" /></p>
+**Kafka Connect Streaming POCs** — Kafka · Kafka Connect · Oracle DB  
+Built POCs integrating EMF event streams into Oracle DB via Kafka sink connectors. Worked through schema handling, error queues, and throughput configuration in a real client environment.
+
+**Customer Journey CMDM Backend** — Java · Kafka Streams · Kafka Connect SMTs  
+Wrote reusable Java components designed for dual consumption by both Kafka Connect SMTs and Kafka Streams, avoiding code duplication across two pipeline paths.
+
+**ZeroDelay FIR** — React · FastAPI · Oracle DB  
+AI-driven FIR filing system built for Oracle MADHacks FY26. Cuts filing time from hours to minutes via AI completeness checks, duplicate detection, multilingual input, and HCM integration.  
+→ **JAPAC Regional Finalist** (1 of 6 Integration teams to qualify)
+
+**Slack Timecard Assistant** — FastAPI · Slack API · Oracle HCM  
+End-to-end chatbot for weekly timecard submission from Slack. Smart draft reuse, editable preview, reminders, and direct Oracle HCM API submission with instant confirmation.
+
+---
+
+## 📌 Pinned Projects
+
+| Repo | What it shows |
+|---|---|
+| [QuickStay-Backend](https://github.com/anchals0915/QuickStay-Backend) | Spring Boot 3 · DDD · Auth0 OAuth2 · PostgreSQL · advanced search |
+| [Harmonify](https://github.com/anchals0915/Harmonify-A-Modern-Spotify-Clone) | Spring Boot 3 · Angular 17 · PostgreSQL · full-stack |
+| [StaySphere](https://github.com/anchals0915/StaySphere-A-Full-Stack-Airbnb-Clone) | Angular 17 · PrimeNG · Spring Boot 3 · PostgreSQL |
+| [VelvetCart](https://github.com/anchals0915/VelvetCart-Full-Stack-E-Commerce-Excellence) | Spring Boot 3 · Angular 18 · PostgreSQL · Tailwind CSS |
+| [ChatterHub](https://github.com/anchals0915/ChatterHub) | Spring Boot · Angular · MySQL · real-time chat |
+
+---
+
+## 🏅 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified **Foundations** Associate
+- Oracle Cloud Infrastructure 2025 Certified **AI Foundations** Associate
+- Oracle Cloud Infrastructure 2025 Certified **Generative AI Professional**
+- Oracle Cloud Infrastructure 2025 Certified **Application Integration Professional**
+- Oracle **Fusion AI Agent Studio** Foundations Associate
+- Oracle **AI Agent Studio for Fusion Applications** Developers
+- OCI **Log Analytics**
+- Oracle **Code Assist (OCA)** Enablement
+
+---
+
+## 📚 Currently learning
+
+- Go (backend services)
+- AWS (EC2, Lambda, RDS, S3)
+- Large-scale PostgreSQL query optimization (EXPLAIN ANALYZE, partitioning)
+
+---
+
+## 📬 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anchalsingh1509-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/anchalsingh1509/)
+[![Email](https://img.shields.io/badge/Email-anchals0915@gmail.com-EA4335?style=flat&logo=gmail)](mailto:anchals0915@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ansi21-FFA116?style=flat&logo=leetcode)](https://leetcode.com/ansi21/)
