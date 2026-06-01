@@ -26,19 +26,6 @@ I build production-grade backend systems, event-driven pipelines, and AI-powered
 **Integration Testing Platform** — React + FastAPI + Oracle DB  
 Production-grade tool for OIC integration testing across environments. Versioned REST APIs, SOLID architecture, AI-driven test generation, CSV report export. Rebuilt from scratch from a Streamlit prototype.
 
-**OCI Serverless CPQ Sync Pipeline** — Python · OCI Functions · Oracle ATP  
-Scheduled serverless function that fetches CPQ Job/BOM sync data, stores raw payloads in OCI Object Storage for audit and replay, and drives Oracle ATP stored procedures via conditional pipeline logic.  
-→ Filed as **Oracle IP Asset #19032** (CPQ Job Status ATP Sync and Real-Time Monitoring)
-
-**AI TDD Generator** — OIC · Knowledge Base · Arch-AI-Tech  
-AI-powered documentation accelerator that auto-generates Technical Design Documents for OIC integrations. Uses a knowledge base as a hallucination guardrail injected at three stages: pattern analysis → prompt enrichment → TDD generation.
-
-**Kafka Connect Streaming POCs** — Kafka · Kafka Connect · Oracle DB  
-Built POCs integrating EMF event streams into Oracle DB via Kafka sink connectors. Worked through schema handling, error queues, and throughput configuration in a real client environment.
-
-**Customer Journey CMDM Backend** — Java · Kafka Streams · Kafka Connect SMTs  
-Wrote reusable Java components designed for dual consumption by both Kafka Connect SMTs and Kafka Streams, avoiding code duplication across two pipeline paths.
-
 **ZeroDelay FIR** — React · FastAPI · Oracle DB  
 AI-driven FIR filing system built for Oracle MADHacks FY26. Cuts filing time from hours to minutes via AI completeness checks, duplicate detection, multilingual input, and HCM integration.  
 → **JAPAC Regional Finalist** (1 of 6 Integration teams to qualify)
